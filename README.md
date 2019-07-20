@@ -4,9 +4,9 @@
 
 【收藏好这个】公告不会经常更新，会在这个网址更新：https://github.com/lovetool/all
 
-机场最新状态：https://github.com/lovetool/all/blob/master/%E9%B8%A1%E5%9C%BA%E6%9C%80%E6%96%B0%E7%8A%B6%E6%80%81.md
+机场最新状态：http://uee.me/aXbDM
 
-文明用词和科普：https://github.com/lovetool/all/blob/master/%E6%96%87%E6%98%8E%E7%94%A8%E8%AF%8D%E5%92%8C%E7%A7%91%E6%99%AE.md
+文明用词和科普：http://uee.me/aXbDN
 
 
 
